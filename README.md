@@ -13,6 +13,29 @@ aka <strong>Ole Solo</strong> — shipping code fast and (mostly) breaking nothi
 | :---- | :--- 
 | **🤬 [The Profanity API](https://the-profanity-api.com)** | Context-aware content moderation API with layered filtering, smart skipping, and an LLM judge for edge cases. Built for accuracy, speed, and lower inference costs.
 | **🎬 [Sergii Mokryk](https://www.sergiimokryk.com)** | Videograph Portfolio website. Simple porfolio but checkout that custom hand-drawn design 🤩
+<table>
+  <thead>
+    <tr>
+      <th width="35%">Project</th>
+      <th width="65%">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>🤬 <a href="https://the-profanity-api.com">The Profanity API</a></strong></td>
+      <td>
+        Context-aware content moderation API with layered filtering, smart skipping,
+        and an LLM judge for edge cases. Built for accuracy, speed, and lower inference costs.
+      </td>
+    </tr>
+    <tr>
+      <td><strong>🎬 <a href="https://www.sergiimokryk.com">Sergii Mokryk</a></strong></td>
+      <td>
+        Videographer portfolio website with a custom hand-drawn visual identity.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 ---

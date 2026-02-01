@@ -18,7 +18,7 @@ aka <strong>Ole Solo</strong> — shipping code fast and (mostly) breaking nothi
   </thead>
   <tbody>
     <tr>
-      <td><strong>🤬 <a href="https://the-profanity-api.com">The Profanity API</a></strong></td>
+      <td><strong>🤬 <a href="https://the-profanity-api.com" target="_blank" rel="noopener noreferrer">The Profanity API</a></strong></td>
       <td>
         Context-aware content moderation API with layered filtering, smart skipping,
         and an LLM judge for edge cases. Built for accuracy, speed, and lower inference costs.

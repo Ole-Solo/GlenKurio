@@ -9,15 +9,11 @@ aka <strong>Ole Solo</strong> — shipping code fast and (mostly) breaking nothi
 
 ### 🚀 Recent Launches
 
-| Project | Description | 
-| :---- | :--- 
-| **🤬 [The Profanity API](https://the-profanity-api.com)** | Context-aware content moderation API with layered filtering, smart skipping, and an LLM judge for edge cases. Built for accuracy, speed, and lower inference costs.
-| **🎬 [Sergii Mokryk](https://www.sergiimokryk.com)** | Videograph Portfolio website. Simple porfolio but checkout that custom hand-drawn design 🤩
 <table>
   <thead>
     <tr>
-      <th width="35%">Project</th>
-      <th width="65%">Description</th>
+      <th width="25%">Project</th>
+      <th width="75%">Description</th>
     </tr>
   </thead>
   <tbody>

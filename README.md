@@ -16,8 +16,9 @@ aka <strong>Ole Solo</strong> — shipping code fast and (mostly) breaking nothi
 
 
 ---
+<details>
+  <summary><strong>👨‍💻 About Me</strong></summary>
 
-### 👨‍💻 About Me
 
 ```yaml
 name: Oleh Minko
@@ -40,8 +41,10 @@ experience:
   years: "Enough to know better, not enough to be bored"
   shipped_to_production: true
   failed_projects:
-    - "Many"
-    - "Learned from each one of them more than from some 'successfull' ones"
+    [
+      "Many",
+      "Learned from each one more than from some 'successful' ones"
+    ]
 
 courses_and_learning:
   number_of_courses_taken: "Infinity (😅)"
@@ -55,9 +58,9 @@ courses_and_learning:
 current_goals:
   [
     "Ship 2 projects per month",
-    "Win a 'Product of the Day' on Product Hunt",
+    "Win 'Product of the Day' on Product Hunt",
     "Win 'Creator of the Year' on Product Hunt",
-    "Build profucts that actually solve real problems",
+    "Build products that actually solve real problems"
   ]
 
 dev_principles:
@@ -67,15 +70,16 @@ dev_principles:
     "Type safety saves weekends",
     "Ship fast, refactor faster",
     "Automate the boring parts",
-    "Performance and safety are a must not a feature",
+    "Performance and safety are requirements, not features",
     "Edge-first architectures",
     "Reusability and composition",
-    "Real men test in production",
+    "Test in production (responsibly)"
   ]
 
 social_life: null
 coffee_dependency: "High"
 sleep_schedule: "Undefined"
 
-```
 
+```
+</details>

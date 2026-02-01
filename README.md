@@ -3,11 +3,11 @@
 
 ## About Me
 
-```yaml
+
 name: Your Name
 role: Full Stack Developer
 location: Your City, Country
-```
+
 
 I'm a passionate developer who loves building things that live on the internet. I specialize in creating elegant solutions to complex problems.
 

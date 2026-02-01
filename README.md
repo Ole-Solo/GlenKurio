@@ -7,7 +7,7 @@ aka <strong>Ole Solo</strong> — shipping code fast and (mostly) breaking nothi
 
 ---
 
-### 🚀 Recent Missions
+### 🚀 Recent Launches
 
 | Project | Description | 
 | :--- | :--- 
